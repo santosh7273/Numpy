@@ -15,3 +15,7 @@ for i in np4:
 print(x)
 print(np4[x])
 print(np4)
+li=np4%2==0
+print(np4[li])
+li2=np4>=5
+print(np4[li2])
