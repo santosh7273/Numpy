@@ -1,0 +1,11 @@
+import numpy as np
+np1=np.array([-12,-33,1,2,3,4,5])
+print(np.sqrt(np1))
+print(np.abs(np1))
+print(abs(np1[1]))
+print(np.exp(np1))
+print(max(np1))
+print(min(np1))
+np6=np.array([1,3,2,4,33,5,21])
+np6.sort()
+print(np6)

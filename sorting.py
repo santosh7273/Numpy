@@ -1,0 +1,10 @@
+import numpy as np
+np1=np.array([4,2,3,1])
+np1.sort()
+print(np1)
+np2=np.array(['Al','Zl',"Bl"])
+np2.sort()
+print(np2)
+np3=np.array([True,False,True,False])
+np3.sort()
+print(np3)
